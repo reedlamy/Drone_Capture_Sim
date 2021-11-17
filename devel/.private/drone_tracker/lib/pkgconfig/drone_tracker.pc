@@ -1,0 +1,8 @@
+prefix=/home/ridley/rotors_ws/devel/.private/drone_tracker
+
+Name: drone_tracker
+Description: Description of drone_tracker
+Version: 0.0.0
+Cflags: -I/home/ridley/rotors_ws/src/hirolab_drone_simulation/drone-tracker-pcl_proposal/drone_tracker/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs

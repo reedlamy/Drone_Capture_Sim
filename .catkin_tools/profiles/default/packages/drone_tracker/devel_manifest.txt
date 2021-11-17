@@ -1,0 +1,6 @@
+hirolab_drone_simulation/drone-tracker-pcl_proposal/drone_tracker
+/home/ridley/rotors_ws/devel/.private/drone_tracker/cmake.lock /home/ridley/rotors_ws/devel/./cmake.lock
+/home/ridley/rotors_ws/devel/.private/drone_tracker/lib/pkgconfig/drone_tracker.pc /home/ridley/rotors_ws/devel/lib/pkgconfig/drone_tracker.pc
+/home/ridley/rotors_ws/devel/.private/drone_tracker/lib/drone_tracker/detect_clusters /home/ridley/rotors_ws/devel/lib/drone_tracker/detect_clusters
+/home/ridley/rotors_ws/devel/.private/drone_tracker/share/drone_tracker/cmake/drone_trackerConfig-version.cmake /home/ridley/rotors_ws/devel/share/drone_tracker/cmake/drone_trackerConfig-version.cmake
+/home/ridley/rotors_ws/devel/.private/drone_tracker/share/drone_tracker/cmake/drone_trackerConfig.cmake /home/ridley/rotors_ws/devel/share/drone_tracker/cmake/drone_trackerConfig.cmake

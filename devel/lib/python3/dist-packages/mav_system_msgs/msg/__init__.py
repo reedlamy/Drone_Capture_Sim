@@ -1,0 +1,1 @@
+/home/ridley/rotors_ws/devel/.private/mav_system_msgs/lib/python3/dist-packages/mav_system_msgs/msg/__init__.py

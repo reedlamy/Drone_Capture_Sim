@@ -1,0 +1,4 @@
+Symlinking /home/ridley/rotors_ws/devel/lib/pkgconfig/drone_tracker.pc
+Symlinking /home/ridley/rotors_ws/devel/lib/drone_tracker/detect_clusters
+Symlinking /home/ridley/rotors_ws/devel/share/drone_tracker/cmake/drone_trackerConfig-version.cmake
+Symlinking /home/ridley/rotors_ws/devel/share/drone_tracker/cmake/drone_trackerConfig.cmake

@@ -1,0 +1,6 @@
+Symlinking /home/ridley/rotors_ws/devel/lib/pkgconfig/rqt_rotors.pc
+Symlinking /home/ridley/rotors_ws/devel/lib/python3/dist-packages/rqt_rotors/__init__.py
+Symlinking /home/ridley/rotors_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig.cmake
+Symlinking /home/ridley/rotors_ws/devel/share/rqt_rotors/cmake/rqt_rotorsConfig-version.cmake
+Symlinking /home/ridley/rotors_ws/devel/bin/hil_plugin
+Symlinking /home/ridley/rotors_ws/devel/bin/cmake.lock

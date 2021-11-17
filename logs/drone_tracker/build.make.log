@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target detect_clusters[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/detect_clusters.dir/src/detect_clusters.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ridley/rotors_ws/devel/.private/drone_tracker/lib/drone_tracker/detect_clusters[0m
+[100%] Built target detect_clusters

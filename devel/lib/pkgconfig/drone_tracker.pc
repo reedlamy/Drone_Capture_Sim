@@ -1,0 +1,1 @@
+/home/ridley/rotors_ws/devel/.private/drone_tracker/lib/pkgconfig/drone_tracker.pc

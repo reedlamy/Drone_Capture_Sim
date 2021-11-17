@@ -1,0 +1,8 @@
+prefix=/home/ridley/rotors_ws/install
+
+Name: drone_tracker
+Description: Description of drone_tracker
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs
